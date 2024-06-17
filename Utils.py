@@ -3,6 +3,7 @@
 # 3. Screen_cleaner - A function to clear the screen (useful when playing memory game or
 # before a new game starts).
 
+
 import os
 
 SCORES_FILE_NAME = './Scores.txt'
